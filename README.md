@@ -2,7 +2,7 @@
 
 This project performs sentiment analysis on financial news tweets by implementing and comparing traditional NLP techniques with transformer-based models.
 
-## 📑 Overview
+## Overview
 
 ### Traditional NLP Approach
 
@@ -20,7 +20,7 @@ This project performs sentiment analysis on financial news tweets by implementin
 - **Training**: Leveraged Hugging Face Trainer API.
 - **Evaluation**: Generated classification reports.
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 - **Programming Language**: Python
 - **Libraries**:
@@ -28,7 +28,7 @@ This project performs sentiment analysis on financial news tweets by implementin
   - **Transformer Models**: `transformers`, `datasets`
   - **Deep Learning Framework**: `PyTorch`
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the Repository**:
 
@@ -55,7 +55,7 @@ This project performs sentiment analysis on financial news tweets by implementin
    - **Traditional NLP Model**: `traditional_nlp_sentiment_analysis.ipynb`
    - **Transformer-Based Model**: `transformer_sentiment_analysis.ipynb`
 
-## 📊 Results & Analysis
+## Results & Analysis
 
 - **Performance Comparison**:
   - Transformer-based model outperformed the traditional SVM classifier.
@@ -65,6 +65,6 @@ This project performs sentiment analysis on financial news tweets by implementin
   - Transformer models capture contextual nuances better.
   - Traditional models are faster but may struggle with complex language patterns.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.

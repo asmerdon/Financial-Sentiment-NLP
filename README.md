@@ -6,8 +6,8 @@ This project performs sentiment analysis on financial news tweets by implementin
 
 ### Traditional NLP Approach
 
-- **Data Preprocessing**: Cleaned and normalized text data.
-- **Feature Extraction**: Used TF-IDF vectorization.
+- **Data Preprocessing**: Cleaned and normalised text data.
+- **Feature Extraction**: Used TF-IDF vectorisation.
 - **Model Training**: Trained an SVM classifier with class weighting.
 - **Cross-Validation**: Implemented stratified k-fold cross-validation.
 - **Evaluation**: Measured accuracy, precision, recall, and F1-score.
